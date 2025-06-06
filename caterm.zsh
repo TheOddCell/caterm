@@ -1,1 +1,1 @@
->_<<end;zsh;rm _
+>_<<end;zsh _;rm _
