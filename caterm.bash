@@ -1,1 +1,1 @@
->_<<end;bash;rm _
+>_<<end;bash _;rm _
